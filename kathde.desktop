@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=KatholikosDE
+Version=1.0
+Comment=A DE for christians!
+Exec=/usr/bin/KathDE/main.sh
+Icon=
+Type=Application
+X-Ubunu-Gettext-Domain=gdm
